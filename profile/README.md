@@ -46,5 +46,5 @@ Notes on how these get built, and the tools I lean on, live at
 **[apphane.dev](https://apphane.dev)**.
 
 If a tool here earns a place in your workflow, you can
-**[sponsor the house](https://github.com/sponsors/apphane-dev)** — it keeps the
+**[sponsor the house](https://github.com/sponsors/Guria)** — it keeps the
 lights on and the scope narrow.
